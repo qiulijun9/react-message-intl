@@ -1,11 +1,13 @@
 {
   "name": "react-message-intl",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.1",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "intl": "^1.2.5",
+    "intl-messageformat": "^9.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
@@ -30,5 +32,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "message intl",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiulijun9/react-message-intl.git"
+  },
+  "keywords": [
+    "intl"
+  ],
+  "author": "qiulijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiulijun9/react-message-intl/issues"
+  },
+  "homepage": "https://github.com/qiulijun9/react-message-intl#readme"
 }
