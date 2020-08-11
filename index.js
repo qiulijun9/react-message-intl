@@ -88,6 +88,5 @@ class ReactIntl {
   }
 }
 
-module.exports = new ReactIntl()
-const a = 'test a'
-module.exports = a
+const intl = new ReactIntl()
+export default intl

@@ -6,7 +6,7 @@ npm install react-message-intl --save
 
 ```jsx
 import React, { useEffect, useState } from 'react'
-import intl from './util/intl'
+import intl from 'react-message-intl'
 import en_US from './lang/en_US'
 import zh_CN from './lang/zh_CN'
 import './App.css'
